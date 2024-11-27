@@ -59,7 +59,6 @@ Example:
 ### **Steps**
 1. Clone the repository:
    git clone https://github.com/Jcarchboldd/VideoObjectDetectionAPI.git
-   cd video-object-detection-api
 
 2. Restore dependencies:
    dotnet restore
